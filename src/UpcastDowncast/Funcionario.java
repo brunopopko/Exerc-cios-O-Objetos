@@ -1,0 +1,5 @@
+package UpcastDowncast;
+
+class Funcionario {
+    
+}
